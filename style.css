@@ -184,6 +184,9 @@ align-items: center;
     border-color: blueviolet;
     border-left: 4px solid blueviolet;
 }
+#contaner-1:hover{
+    background-color: #96999c58;
+}
 #div-img1{
     width: 75px;
 }
